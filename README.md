@@ -1,7 +1,7 @@
 
-  # pinterest - purple
+  # Dashboard ai
 
-  This is a code bundle for pinterest - purple. The original project is available at https://www.figma.com/design/4gbORdbuCQFCgYiSxu4YrU/pinterest---purple.
+  This is a code bundle for Dashboard ai. The original project is available at https://www.figma.com/design/4gbORdbuCQFCgYiSxu4YrU/Dashboard-ai.
 
   ## Running the code
 
